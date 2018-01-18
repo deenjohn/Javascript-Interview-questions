@@ -22,6 +22,9 @@ function b() {
 What is the output ?
 
 1)
+
+
+
 function a() {
     
     function b() {
